@@ -131,7 +131,7 @@
     (f.o = function(object, e) {
       return Object.prototype.hasOwnProperty.call(object, e)
     }),
-    (f.p = '/nuxt-router-test2/_nuxt/'),
+    (f.p = '/nuxt-router-test/static/'),
     (f.oe = function(e) {
       throw (console.error(e), e)
     })
